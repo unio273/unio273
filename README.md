@@ -7,6 +7,6 @@
 
 
 <p align="center">
-  <a href="tel:034126586087" style="color:#F49F61"; text-decoration:none;">0341 26 58 60 87</a><br>
-  <a href="mailto:Naturheilkunde_grit.marx@murena.io" style="color:#F49F61; text-decoration:none;">Naturheilkunde_grit.marx@murena.io</a>
+  <h3><a href="tel:034126586087" style="color:#F49F61"; text-decoration:none;">0341 26 58 60 87</a><br>
+  <a href="mailto:Naturheilkunde_grit.marx@murena.io" style="color:#F49F61"; text-decoration:none;">Naturheilkunde_grit.marx@murena.io</a></h3>
 </p>
